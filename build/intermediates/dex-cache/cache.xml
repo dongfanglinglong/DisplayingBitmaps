@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_8ec65409ea158360226524a3c8a91e694f14ec67.jar" />
+    </item>
+    <item
+        jar="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_38cd472c70411fd1d8c683a9e73e93b82c52dbe1.jar" />
+    </item>
+    <item
+        jar="E:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_d12bbecee235df8c02b24c8f87e175352b8f7e13.jar" />
+    </item>
+    <item
+        jar="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_4018ffcb5b0590224a6626a456a15f5ba507e38b.jar" />
+    </item>
+    <item
+        jar="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8465fad6dd05b954b82bd5ff22edd80992808561">
+        <dex dex="E:\android-sdk-windows\samples\android-23\ui\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.1.1_369166de33ce239ae73bcdfacec76301589c4a40.jar" />
+    </item>
+
+</items>
